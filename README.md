@@ -48,7 +48,8 @@ Deep dive into channel-level performance including:
 ---
 
 ### Page 3 — Budget Optimization
-![Budget Optimization](screenshots/page3_budget_optimization.png)
+<img width="1302" height="735" alt="image" src="https://github.com/user-attachments/assets/223c9786-5db4-41a4-962e-a4b22a9b972f" />
+
 
 MMM-based budget reallocation recommendations including:
 - Current vs Optimized weekly spend by channel
@@ -68,7 +69,7 @@ MMM-based budget reallocation recommendations including:
 ---
 
 ### Page 4 — Incrementality Test Results
-![Incrementality Test](screenshots/page4_incrementality_test.png)
+<img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/308402d5-2a85-4228-9231-cd74c19d3e86" />
 
 Geo-lift test results measuring causal impact of email campaigns:
 - Test vs Control region revenue comparison
@@ -144,12 +145,7 @@ SUMX(
 
 ---
 
-## 🔗 Related Project
 
-This dashboard is the visualization layer for the full MMM analysis:
-👉 [Company A — MMM & Incrementality Testing](https://github.com/azar2020/company-a-mmm-campaign-optimization)
-
----
 
 ## 🛠 Tech Stack
 
@@ -165,5 +161,4 @@ This dashboard is the visualization layer for the full MMM analysis:
 ## 👤 Author
 
 **Azar Taheri**
-Data Analyst | Marketing Analytics | MMM & Incrementality Testing
-[LinkedIn](https://linkedin.com/in/azar-taheri) | [GitHub](https://github.com/azar2020)
+[LinkedIn](https://linkedin.com/in/azar-taheri)  
