@@ -144,9 +144,10 @@ SUMX(
 6. Build visuals following the screenshots
 
 ---
-
-
-
+🔗 Related Project
+This dashboard is the visualization layer for the full MMM analysis: [Company A — MMM & Incrementality Testing](https://github.com/azar2020/company-a-mmm-campaign-optimization)
+ 
+ 
 ## 🛠 Tech Stack
 
 | Tool | Purpose |
