@@ -146,7 +146,7 @@ SUMX(
 ---
 🔗 Related Project
 This dashboard is the visualization layer for the full MMM analysis: [Company A — MMM & Incrementality Testing](https://github.com/azar2020/marketing-mix-modeling-Robyn)
- (Different dataset, but same approach!)
+ (Data simulated based on MMM model outputs from the R/Robyn project.)
  
 ## 🛠 Tech Stack
 
