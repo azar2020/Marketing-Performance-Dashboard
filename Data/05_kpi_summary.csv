@@ -1,0 +1,11 @@
+metric,value,category
+Total Revenue,11532673.0,Revenue
+Total Spend,4073512.0,Spend
+Total Conversions,5838.0,Conversions
+Avg Weekly ROAS,2.87,Efficiency
+Avg Weekly Conversions,56.1,Conversions
+Incremental Lift/Week,2954.0,Incrementality
+Email ROAS,1.01,Channel ROAS
+SMS ROAS,1.12,Channel ROAS
+Social ROAS,0.92,Channel ROAS
+Search ROAS,0.9,Channel ROAS

@@ -1,0 +1,5 @@
+channel,current_spend,optimized_spend,current_roas,optimized_roas,change_pct,adstock_decay,immediate_pct,carryover_pct
+Email,7807,9050,1.01,1.07,16,42.3,61,39
+SMS,4054,4471,1.12,1.18,10,22.6,24,76
+Social Media,12161,9711,0.92,0.97,-20,22.7,19,81
+Paid Search,15146,15936,0.9,0.95,5,17.7,11,89
